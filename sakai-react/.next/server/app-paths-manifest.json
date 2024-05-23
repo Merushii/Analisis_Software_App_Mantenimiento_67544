@@ -1,0 +1,5 @@
+{
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/(main)/uikit/formlayout/page": "app/(main)/uikit/formlayout/page.js",
+  "/(main)/uikit/input/page": "app/(main)/uikit/input/page.js"
+}
